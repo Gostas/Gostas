@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+```python
+print("Welcome to my Github profile!")
+my_str='print("Welcome to my Github profile!")'
+a='print(my_str);print("my_str="+chr(39)+my_str+chr(39));print("a="+chr(39)+a+chr(39));print(a)'
+print(my_str);print("my_str="+chr(39)+my_str+chr(39));print("a="+chr(39)+a+chr(39));print(a)
+```
 <!--
 **Gostas/Gostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
